@@ -1,0 +1,7 @@
+{
+  "item.mekanismfabric.infused_alloy": "§eInfused Alloy§r",
+  "item.mekanismfabric.reinforced_alloy": "§bReinforced Alloy§r",
+  "item.mekanismfabric.atomic_alloy": "§dAtomic Alloy§r",
+
+  "itemGroup.mekanismfabric.mekanism": "Mekanism"
+}
