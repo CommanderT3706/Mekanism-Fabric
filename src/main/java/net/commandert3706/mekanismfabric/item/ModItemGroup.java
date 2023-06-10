@@ -8,5 +8,5 @@ import net.minecraft.util.Identifier;
 
 public class ModItemGroup {
     public static final ItemGroup MEKANISM = FabricItemGroupBuilder.build(
-            new Identifier(MekanismFabric.MOD_ID, "mekanism"), () -> new ItemStack(ItemRegistry.ATOMIC_ALLOY));
+            new Identifier(MekanismFabric.MOD_ID, "mekanism"), () -> new ItemStack(ModItems.ATOMIC_ALLOY));
 }

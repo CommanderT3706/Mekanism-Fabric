@@ -1,6 +1,6 @@
 package net.commandert3706.mekanismfabric;
 
-import net.commandert3706.mekanismfabric.item.ItemRegistry;
+import net.commandert3706.mekanismfabric.item.ModItems;
 import net.fabricmc.api.ModInitializer;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -11,6 +11,6 @@ public class MekanismFabric implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
-		ItemRegistry.registerModItems();
+		ModItems.registerModItems();
 	}
 }
