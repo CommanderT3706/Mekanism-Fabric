@@ -99,4 +99,172 @@ public class ModItems {
             new Item(DEFAULT_SETTINGS));
     public static final Item DIRTY_NETHERITE_SCRAP = registerItem("dirty_netherite_scrap",
             new Item(DEFAULT_SETTINGS));
+
+
+    // Dusts
+    public static final Item BRONZE_DUST = registerItem("bronze_dust",
+            new Item(DEFAULT_SETTINGS));
+    public static final Item LAPIS_LAZULI_DUST = registerItem("lapis_lazuli_dust",
+            new Item(DEFAULT_SETTINGS));
+    public static final Item COAL_DUST = registerItem("coal_dust",
+            new Item(DEFAULT_SETTINGS));
+    public static final Item CHARCOAL_DUST = registerItem("charcoal_dust",
+            new Item(DEFAULT_SETTINGS));
+    public static final Item QUARTZ_DUST = registerItem("quartz_dust",
+            new Item(DEFAULT_SETTINGS));
+    public static final Item EMERALD_DUST = registerItem("emerald_dust",
+            new Item(DEFAULT_SETTINGS));
+    public static final Item DIAMOND_DUST = registerItem("diamond_dust",
+            new Item(DEFAULT_SETTINGS));
+    public static final Item NETHERITE_DUST = registerItem("netherite_dust",
+            new Item(DEFAULT_SETTINGS));
+    public static final Item STEEL_DUST = registerItem("steel_dust",
+            new Item(DEFAULT_SETTINGS));
+    public static final Item SULFUR_DUST = registerItem("sulfur_dust",
+            new Item(DEFAULT_SETTINGS));
+    public static final Item LITHIUM_DUST = registerItem("lithium_dust",
+            new Item(DEFAULT_SETTINGS));
+    public static final Item REFINED_OBSIDIAN_DUST = registerItem("refined_obsidian_dust",
+            new Item(DEFAULT_SETTINGS));
+    public static final Item OBSIDIAN_DUST = registerItem("obsidian_dust",
+            new Item(DEFAULT_SETTINGS));
+    public static final Item FLUORITE_DUST = registerItem("fluorite_dust",
+            new Item(DEFAULT_SETTINGS));
+
+
+    // Ingots
+    public static final Item BRONZE_INGOT = registerItem("bronze_ingot",
+            new Item(DEFAULT_SETTINGS));
+    public static final Item REFINED_OBSIDIAN_INGOT = registerItem("refined_obsidian_ingot",
+            new Item(DEFAULT_SETTINGS));
+    public static final Item REFINED_GLOWSTONE_INGOT = registerItem("refined_glowstone_ingot",
+            new Item(DEFAULT_SETTINGS));
+    public static final Item STEEL_INGOT = registerItem("steel_ingot",
+            new Item(DEFAULT_SETTINGS));
+
+
+    // Nuggets
+    public static final Item REFINED_OBSIDIAN_NUGGET = registerItem("refined_obsidian_nugget",
+            new Item(DEFAULT_SETTINGS));
+    public static final Item BRONZE_NUGGET = registerItem("bronze_nugget",
+            new Item(DEFAULT_SETTINGS));
+    public static final Item REFINED_GLOWSTONE_NUGGET = registerItem("refined_glowstone_nugget",
+            new Item(DEFAULT_SETTINGS));
+    public static final Item STEEL_NUGGET = registerItem("steel_nugget",
+            new Item(DEFAULT_SETTINGS));
+    public static final Item OSMIUM_NUGGET = registerItem("osmium_nugget",
+            new Item(DEFAULT_SETTINGS));
+    public static final Item TIN_NUGGET = registerItem("tin_nugget",
+            new Item(DEFAULT_SETTINGS));
+    public static final Item LEAD_NUGGET = registerItem("lead_nugget",
+            new Item(DEFAULT_SETTINGS));
+    public static final Item URANIUM_NUGGET = registerItem("uranium_nugget",
+            new Item(DEFAULT_SETTINGS));
+
+
+    // Shards
+    public static final Item IRON_SHARD = registerItem("iron_shard",
+            new Item(DEFAULT_SETTINGS));
+    public static final Item GOLD_SHARD = registerItem("gold_shard",
+            new Item(DEFAULT_SETTINGS));
+    public static final Item OSMIUM_SHARD = registerItem("osmium_shard",
+            new Item(DEFAULT_SETTINGS));
+    public static final Item COPPER_SHARD = registerItem("copper_shard",
+            new Item(DEFAULT_SETTINGS));
+    public static final Item TIN_SHARD = registerItem("tin_shard",
+            new Item(DEFAULT_SETTINGS));
+    public static final Item LEAD_SHARD = registerItem("lead_shard",
+            new Item(DEFAULT_SETTINGS));
+    public static final Item URANIUM_SHARD = registerItem("uranium_shard",
+            new Item(DEFAULT_SETTINGS));
+
+
+    // Crystals
+    public static final Item IRON_CRYSTAL = registerItem("iron_crystal",
+            new Item(DEFAULT_SETTINGS));
+    public static final Item GOLD_CRYSTAL = registerItem("gold_crystal",
+            new Item(DEFAULT_SETTINGS));
+    public static final Item OSMIUM_CRYSTAL = registerItem("osmium_crystal",
+            new Item(DEFAULT_SETTINGS));
+    public static final Item COPPER_CRYSTAL = registerItem("copper_crystal",
+            new Item(DEFAULT_SETTINGS));
+    public static final Item TIN_CRYSTAL = registerItem("tin_crystal",
+            new Item(DEFAULT_SETTINGS));
+    public static final Item LEAD_CRYSTAL = registerItem("lead_crystal",
+            new Item(DEFAULT_SETTINGS));
+    public static final Item URANIUM_CRYSTAL = registerItem("uranium_crystal",
+            new Item(DEFAULT_SETTINGS));
+
+
+    // Metal Dusts
+    public static final Item IRON_DUST = registerItem("iron_dust",
+            new Item(DEFAULT_SETTINGS));
+    public static final Item GOLD_DUST = registerItem("gold_dust",
+            new Item(DEFAULT_SETTINGS));
+    public static final Item OSMIUM_DUST = registerItem("osmium_dust",
+            new Item(DEFAULT_SETTINGS));
+    public static final Item COPPER_DUST = registerItem("copper_dust",
+            new Item(DEFAULT_SETTINGS));
+    public static final Item TIN_DUST = registerItem("tin_dust",
+            new Item(DEFAULT_SETTINGS));
+    public static final Item LEAD_DUST = registerItem("lead_dust",
+            new Item(DEFAULT_SETTINGS));
+    public static final Item URANIUM_DUST = registerItem("uranium_dust",
+            new Item(DEFAULT_SETTINGS));
+
+
+    // Dirty Dusts
+    public static final Item DIRTY_IRON_DUST = registerItem("dirty_iron_dust",
+            new Item(DEFAULT_SETTINGS));
+    public static final Item DIRTY_GOLD_DUST = registerItem("dirty_gold_dust",
+            new Item(DEFAULT_SETTINGS));
+    public static final Item DIRTY_OSMIUM_DUST = registerItem("dirty_osmium_dust",
+            new Item(DEFAULT_SETTINGS));
+    public static final Item DIRTY_COPPER_DUST = registerItem("dirty_copper_dust",
+            new Item(DEFAULT_SETTINGS));
+    public static final Item DIRTY_TIN_DUST = registerItem("dirty_tin_dust",
+            new Item(DEFAULT_SETTINGS));
+    public static final Item DIRTY_LEAD_DUST = registerItem("dirty_lead_dust",
+            new Item(DEFAULT_SETTINGS));
+    public static final Item DIRTY_URANIUM_DUST = registerItem("dirty_uranium_dust",
+            new Item(DEFAULT_SETTINGS));
+
+
+    // Clumps
+    public static final Item IRON_CLUMP = registerItem("iron_clump",
+            new Item(DEFAULT_SETTINGS));
+    public static final Item GOLD_CLUMP = registerItem("gold_clump",
+            new Item(DEFAULT_SETTINGS));
+    public static final Item OSMIUM_CLUMP = registerItem("osmium_clump",
+            new Item(DEFAULT_SETTINGS));
+    public static final Item COPPER_CLUMP = registerItem("copper_clump",
+            new Item(DEFAULT_SETTINGS));
+    public static final Item TIN_CLUMP = registerItem("tin_clump",
+            new Item(DEFAULT_SETTINGS));
+    public static final Item LEAD_CLUMP = registerItem("lead_clump",
+            new Item(DEFAULT_SETTINGS));
+    public static final Item URANIUM_CLUMP = registerItem("uranium_clump",
+            new Item(DEFAULT_SETTINGS));
+
+
+    // Metal Ingots
+    public static final Item OSMIUM_INGOT = registerItem("osmium_ingot",
+            new Item(DEFAULT_SETTINGS));
+    public static final Item TIN_INGOT = registerItem("tin_ingot",
+            new Item(DEFAULT_SETTINGS));
+    public static final Item LEAD_INGOT = registerItem("lead_ingot",
+            new Item(DEFAULT_SETTINGS));
+    public static final Item URANIUM_INGOT = registerItem("uranium_ingot",
+            new Item(DEFAULT_SETTINGS));
+
+
+    // Raw Metals
+    public static final Item RAW_OSMIUM = registerItem("raw_osmium",
+            new Item(DEFAULT_SETTINGS));
+    public static final Item RAW_TIN = registerItem("raw_tin",
+            new Item(DEFAULT_SETTINGS));
+    public static final Item RAW_LEAD = registerItem("raw_lead",
+            new Item(DEFAULT_SETTINGS));
+    public static final Item RAW_URANIUM = registerItem("raw_uranium",
+            new Item(DEFAULT_SETTINGS));
 }
